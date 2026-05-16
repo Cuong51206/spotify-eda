@@ -4,7 +4,9 @@
 This project performs an in-depth Exploratory Data Analysis (EDA) on Spotify datasets to uncover historical musical trends and understand the underlying relationships between various audio features (such as acousticness, energy, and loudness) and overall track popularity. 
 
 ## Source
-* **Source:** [Spotify Dataset on Kaggle](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
+* **Source:** 
+[Data 1](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
+[Data 2](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
 
 ## Key Findings
 
